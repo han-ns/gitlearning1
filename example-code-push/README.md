@@ -1,1 +1,1 @@
-# This is my README file
+### I made four files and pushed them from my IDE to demonstrate familiarity with GitHub and my IDE. I made a Lisp file and a Verilog file to demonstrate competence with handling less common / unknown file types. 
